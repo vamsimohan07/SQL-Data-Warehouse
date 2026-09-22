@@ -30,11 +30,11 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 Develop SQL-based analytics to deliver detailed insights into:
 
-**Customer Behavior**
-**Product Performance**
-**Sales Trends**
+**Customer Behavior** 
+**Product Performance**  
+**Sales Trends** 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ABOUT ME 
-Hi there, I'm Vamsi Mohan this Git repo is for my First Analytical Project, Very much interested to find solutions to problems in real world.
+Hi there, I'm Vamsi Mohan this Git repo is for my First Analytical Project, And I'm Very much curious about solving real world problems.
 I want to thank Baraa (Youtuber) For making such a good Content and Helping me to complete this Project. 

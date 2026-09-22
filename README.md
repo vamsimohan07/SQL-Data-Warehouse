@@ -5,9 +5,9 @@ Welcome to **Data warehouse and analytical project** this project demonstrate a 
 
 ---
 
-##**Project requirements**
+##Project requirements
 
-##**Building the Data Warehouse (Data Engineering)**
+##Building the Data Warehouse (Data Engineering)
 
 
 ##**Objective**

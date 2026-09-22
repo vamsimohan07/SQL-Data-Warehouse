@@ -7,23 +7,23 @@ Welcome to **Data warehouse and analytical project** this project demonstrate a 
 
 ## Project requirements
 
-**Building the Data Warehouse (Data Engineering)**
+###**Building the Data Warehouse (Data Engineering)**
 
-## Objective
+#### Objective
+
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
-## Specifications
+#### Specifications
+
 - Data Sources: Import data from two source systems (ERP and CRM) provided as CSV files.
 - Data Quality: Cleanse and resolve data quality issues prior to analysis.
 - Integration: Combine both sources into a single, user-friendly data model designed for analytical queries.
 - Scope: Focus on the latest dataset only; historization of data is not required.
 - Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-## BI: Analytics & Reporting (Data Analysis)
+### BI: Analytics & Reporting (Data Analysis)
 
-
-## Objective
-
+#### Objective
 
 Develop SQL-based analytics to deliver detailed insights into:
 
@@ -33,13 +33,5 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision making.
 
 ## ABOUT ME:
+
 Hey There I'm Vamsi Mohan, A Data Science student curious about how systems operate in large scale and to solve real world business problems with insights i make with Data. 
-
-
-
-
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
-
-ABOUT ME 
-Hi there, I'm Vamsi Mohan this Git repo is for my First Analytical Project, And I'm Very much curious about solving real world problems.
-I want to thank Baraa (Youtuber) For making such a good Content and Helping me to complete this Project. 
